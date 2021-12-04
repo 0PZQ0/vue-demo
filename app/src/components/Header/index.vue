@@ -1,5 +1,5 @@
 <template>
-    <header class="header">
+ <header class="header">
             <!-- 头部的第一行 -->
             <div class="top">
                 <div class="container">
@@ -43,7 +43,7 @@
 export default {
    data() {
       return {
-      }
+      };
    },
    activated() {
    },
@@ -54,10 +54,11 @@ created(){
 mounted(){
 },
 methods:{
+
 }
 
 
-}
+};
 </script>
 <style scoped lang = "less">
 .header {

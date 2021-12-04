@@ -113,7 +113,7 @@ export default {
   watch: {},
   created() {},
   mounted() {},
-  methods: {},
+  methods: {}
 };
 </script>
 <style scoped lang = 'less'>
