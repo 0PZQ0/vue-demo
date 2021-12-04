@@ -1,24 +1,10 @@
-# app
+# 尚品汇
 
-## Project setup
-```
-npm install
-```
+## 描述
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## 目录结构
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## 注意事项
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
